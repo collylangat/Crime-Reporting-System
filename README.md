@@ -9,7 +9,7 @@ Description :
   
   
 Project Url:
-  Source : https://github.com/NoMercy9795/CrimeReportManagement
+  Source : https://github.com/collylangat/Crime-Reporting-System
   
   
-Name : Rahul Kumar.
+Name : Ngenii.
